@@ -10,3 +10,7 @@ def db_write():
     """ write the provided values to the indicated DB table """
     pass
 
+def db_read():
+    """ read the specified data from the specified table """
+    pass
+
